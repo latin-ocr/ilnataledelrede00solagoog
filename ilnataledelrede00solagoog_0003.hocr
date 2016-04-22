@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ilnataledelrede00solagoog/ilnataledelrede00solagoog_0003.png"; bbox 0 0 5325 7034; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2924 5416 3363 5464">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2924 5416 3363 5464">
+     <span class='ocr_line' id='line_1_1' title="bbox 2924 5416 3363 5464; baseline 0.005 -4"><span class='ocrx_word' id='word_1_1' title='bbox 2924 5435 3310 5464; x_wconf 52' lang='lat' dir='ltr'>nmrtomusm.</span> <span class='ocrx_word' id='word_1_2' title='bbox 3356 5416 3363 5427; x_wconf 86' lang='grc'><strong>”</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2180 2763 2721 2833">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2180 2763 2721 2833">
+     <span class='ocr_line' id='line_1_2' title="bbox 2180 2763 2721 2833; baseline -0.002 0"><span class='ocrx_word' id='word_1_3' title='bbox 2180 2763 2460 2833; x_wconf 78' lang='grc' dir='ltr'>ΒΑΤΕ</span> <span class='ocrx_word' id='word_1_4' title='bbox 2500 2763 2721 2832; x_wconf 65' lang='lat' dir='ltr'>Duri</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1666 5432 1888 5461">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1666 5432 1888 5461">
+     <span class='ocr_line' id='line_1_3' title="bbox 1666 5432 1888 5461; baseline -0.005 0"><span class='ocrx_word' id='word_1_5' title='bbox 1666 5432 1888 5461; x_wconf 67' lang='lat' dir='ltr'>eAvkonn</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1623 5559 2017 5579">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1623 5559 2017 5579">
+     <span class='ocr_line' id='line_1_4' title="bbox 1623 5559 2017 5579; baseline 0 -3"><span class='ocrx_word' id='word_1_6' title='bbox 1623 5559 1714 5579; x_wconf 59' lang='grc' dir='ltr'>’.Η</span> <span class='ocrx_word' id='word_1_7' title='bbox 1732 5559 1781 5576; x_wconf 65' lang='grc'>“.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1806 5559 1847 5576; x_wconf 68' lang='lat'>³·-</span> <span class='ocrx_word' id='word_1_9' title='bbox 1868 5559 2017 5578; x_wconf 53' lang='lat'><strong>&#39;0¹1&#39;-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
